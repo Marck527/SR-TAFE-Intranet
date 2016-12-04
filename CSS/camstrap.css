@@ -1,0 +1,25 @@
+/** 
+Copyright (c) 2016 CamStrap and Co
+All Rights Reserved
+ 
+This product is protected by copyright and distributed under
+licenses restricting copying, distribution and decompilation.
+*/
+
+* {
+    background-color: white;
+    text-align: center;
+}
+/** Turn all anchor tags into buttons*/
+a {
+  font: bold 11px Arial;
+  text-decoration: none;
+  background-color: white;
+  color: #333333;
+  padding: 2px 6px 2px 6px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+			
+}
